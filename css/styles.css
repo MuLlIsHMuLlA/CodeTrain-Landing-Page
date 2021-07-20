@@ -1,0 +1,176 @@
+.nav-height {
+    height: 80px;
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1020;
+}
+
+.right-height {
+    margin-top: 10px;
+}
+
+#logo {
+    height: 50px;
+}
+
+.style-btn {
+    height: 50px;
+    background-color: #eb4b6a;
+    border-radius: 5px;
+    color: #fff; 
+}
+
+.style-btn:hover {
+    background-color: #eb4b6a;
+    color: #fff
+}
+
+.caro-slider {
+    height: 800px;
+} 
+
+.content {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#block {
+    font-size: 16px;
+}
+
+h4 {
+    color: #eb4b6a;
+}
+
+.titu {
+    font-weight: bold;
+    color: #7b7e80;
+}
+
+#titus {
+    height: 60vh;
+}
+
+.heading {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    text-align: center;
+    color: #eb4b6a;
+}
+
+.bg-col {
+ 
+    background-color: #f9f7fb;
+    margin-top: 10vh;
+}
+
+h3 {
+    text-align: center;
+    color: #eb4b6a;
+    margin-bottom: 10vh;
+}
+
+.razak {
+    font-size: 16px;
+}
+
+#razk {
+    height: 150px;
+}
+
+#second-row {
+    margin-top: 10vh;
+}
+
+.see-btn {
+    margin-top: 10vh;
+    margin-bottom: 20vh;
+    margin-left: 80vh;
+    border-radius: 4px;
+    border: 1px solid #8a73b3;
+    background-color: transparent;
+    height: 8vh;
+    color: #8a73b3;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.see-btn:hover {
+    background-color: #7938e9;
+    color: #fff;
+}
+
+#learn {
+    margin-top: 10vh;
+}
+
+.video {
+    margin-bottom: 20vh;
+}
+
+.content-two {
+    background-color: #f9f7fb;
+}
+
+#training {
+    margin-bottom: 10vh;
+    color: #eb4b6a;
+}
+ .twelve-mnth {
+     background-color: #4e88c6;
+     color: white;
+     padding: 1rem;
+     margin: 0;
+ }
+
+ .magic {
+    background-color: #8a73b3;
+    color:white;
+    padding: 1rem; 
+    margin: 0; 
+ }
+
+ .job {
+     background-color: #d25aa2;
+     color: #fff;
+     padding: 1rem;
+     margin: 0;
+ }
+
+.nested {
+    margin-top: 0;
+    background-color: #fff;
+    font-size: 18px;
+    height: 25vh;
+}
+
+.nested-two {
+    margin-top: 0;
+    background-color: #fff;
+}
+
+
+.see-btnn {
+    margin-top: 10vh;
+    margin-bottom: 20vh;
+    margin-left: 60vh;
+    border-radius: 4px;
+    border: 1px solid #8a73b3;
+    background-color: transparent;
+    height: 8vh;
+    color: #8a73b3;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.see-btnn:hover{
+    background-color: #7938e9;
+    color: #fff;
+}
+
+.content-two {
+    padding-left: 20vh;
+    padding-right: 20vh;
+}
